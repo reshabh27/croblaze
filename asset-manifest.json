@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/croblaze/static/css/main.f2d377f4.chunk.css",
+    "main.js": "/croblaze/static/js/main.59614566.chunk.js",
+    "main.js.map": "/croblaze/static/js/main.59614566.chunk.js.map",
+    "runtime-main.js": "/croblaze/static/js/runtime-main.94bf6d61.js",
+    "runtime-main.js.map": "/croblaze/static/js/runtime-main.94bf6d61.js.map",
+    "static/js/2.ede793aa.chunk.js": "/croblaze/static/js/2.ede793aa.chunk.js",
+    "static/js/2.ede793aa.chunk.js.map": "/croblaze/static/js/2.ede793aa.chunk.js.map",
+    "static/js/3.7f3bc502.chunk.js": "/croblaze/static/js/3.7f3bc502.chunk.js",
+    "static/js/3.7f3bc502.chunk.js.map": "/croblaze/static/js/3.7f3bc502.chunk.js.map",
+    "index.html": "/croblaze/index.html",
+    "static/css/main.f2d377f4.chunk.css.map": "/croblaze/static/css/main.f2d377f4.chunk.css.map",
+    "static/js/2.ede793aa.chunk.js.LICENSE.txt": "/croblaze/static/js/2.ede793aa.chunk.js.LICENSE.txt",
+    "static/media/advertise.90f00d1c.jpeg": "/croblaze/static/media/advertise.90f00d1c.jpeg",
+    "static/media/linkedin.0c5dce1d.png": "/croblaze/static/media/linkedin.0c5dce1d.png",
+    "static/media/logo.ffb62342.png": "/croblaze/static/media/logo.ffb62342.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94bf6d61.js",
+    "static/js/2.ede793aa.chunk.js",
+    "static/css/main.f2d377f4.chunk.css",
+    "static/js/main.59614566.chunk.js"
+  ]
+}
